@@ -7,13 +7,16 @@
   <img src="https://img.shields.io/badge/FrameWork-Django1.11-green.svg">
 </p>
 
-😃基于Django的轻量级办公自动化系统
+😃轻量级办公自动化系统
+
 🔐权限管理
+
 💾文档管理
-.........
+
+🎨.........
 
 ```
-$ mkdir mxshop
+$ mkdir oa
 $ git clone https://github.com/Eminjan/OA-.git
 $ cd oa
 $ pip install -r requirements.txt 
